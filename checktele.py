@@ -251,11 +251,11 @@ async def _(event):
                     await event.client.send_message(event.chat_id, f'''
 ┏━━━━━┓
 
-● @HLLAM ●
+● @W_G_Z ●
 
 ● (@{username}) ●
 
-● @H_P_K ●
+● @L_L_L_Z ●
 
 ┗━━━━━┛
 
@@ -317,11 +317,11 @@ async def _(event):
                         await event.client.send_message(event.chat_id, f'''
 ┏━━━━━┓
 
-● @HLLAM ●
+● @W_G_Z ●
 
 ● (@{username}) ●
 
-● @H_P_K ●
+● @L_L_L_Z ●
 
 ┗━━━━━┛
     ''')
@@ -357,12 +357,11 @@ async def _(event):
 
 ┏━━━━━┓
 
-● @HLLAM ●
+● @W_G_Z ●
 
 ● (@{username}) ●
 
-● @H_P_K ●
-
+● @WL_L_L_Z ●
 ┗━━━━━┛
 
     ''')
